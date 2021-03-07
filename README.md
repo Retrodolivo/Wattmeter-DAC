@@ -1,2 +1,2 @@
-This is Atmel Studio project for mcu ATmega8a. MCU getting commands from user's Desktop program through ic FTDI FT2232 usb/spi bridge.
-
+Atmel Studio project for ATmega8A MCU.
+MCU getting commands from user's Desktop program via FTDI FT2232 usb/spi bridge IC.
