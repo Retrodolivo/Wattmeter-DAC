@@ -1,3 +1,17 @@
-Debug/
+#Software
+Software/DAC1220_Atmega8_SPI/Debug/
 .vs/
 DAC1220_Atmega8_SPI.componentinfo.xml
+
+Software/FTDI_DLL/Backup
+Software/FTDI_DLL/Backup1
+Software/FTDI_DLL/Debug
+Software/FTDI_DLL/ipch
+Software/FTDI_DLL/UpgradeLog
+Software/FTDI_DLL/UpgradeLog2
+
+#Hardware
+Hardware/Altium/Wattmeter_DAC/History/
+Hardware/Altium/Bolometric_bridge/History/
+Project Logs for Bolometric_bridge/
+Project Logs for Wattmeter_DAC/
