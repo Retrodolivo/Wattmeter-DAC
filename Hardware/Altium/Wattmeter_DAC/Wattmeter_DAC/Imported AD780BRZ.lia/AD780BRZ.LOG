@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : AD780BRZ.LibPkg
+
+Section : C:\Users\User\Google Диск\Работа\BIM_Final_pcb\BIM_Final_pcb\AD780BRZ.lia
+    Section : PCB Library - AD780BRZ.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 134
+            Warning - 1 : Skipping Token isVisible On Line 178
+            Warning - 1 : Skipping Token isVisible On Line 188
+            Warning - 1 : Skipping Token AD780BRZ On Line 192
+            Warning - 1 : Skipping Token attachedSymbol On Line 294
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - AD780BRZ.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 94
+            Warning - 1 : Skipping Token layerContents On Line 138
+            Warning - 1 : Skipping Token layerContents On Line 182
+        EndSection
+
+        Section : Generating SCH Library - AD780BRZ.SchLib
+        EndSection
+    EndSection
+EndSection
