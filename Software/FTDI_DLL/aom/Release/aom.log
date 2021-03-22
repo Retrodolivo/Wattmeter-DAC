@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  bim.cpp
+  dllmain.cpp
+     Создается библиотека C:\Users\User\Google Диск\Работа\BIM_FAST\BIM_dll_fast\Release\BIM.lib и объект C:\Users\User\Google Диск\Работа\BIM_FAST\BIM_dll_fast\Release\BIM.exp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  Создание кода завершено
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  aom.vcxproj -> C:\Users\User\Google Диск\Работа\BIM_FAST\BIM_dll_fast\Release\BIM.dll

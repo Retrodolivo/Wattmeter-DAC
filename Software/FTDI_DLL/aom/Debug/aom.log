@@ -1,0 +1,9 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  stdafx.cpp
+cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  bim.cpp
+cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  dllmain.cpp
+bim.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+     Создается библиотека C:\Users\User\Google Диск\Работа\BIM_dll_float\BIM_dll\Debug\BIM.lib и объект C:\Users\User\Google Диск\Работа\BIM_dll_float\BIM_dll\Debug\BIM.exp
+  aom.vcxproj -> C:\Users\User\Google Диск\Работа\BIM_dll_float\BIM_dll\Debug\BIM.dll

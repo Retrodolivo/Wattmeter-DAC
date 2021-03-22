@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  aom.cpp
+c1xx : fatal error C1083: Не удается открыть файл источник: aom.cpp: No such file or directory,
