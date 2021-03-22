@@ -1,0 +1,14 @@
+*************************************************************
+FileName = DAC.GBR
+AutoAperture = True
+*************************************************************
+Generating : Keep-Out Layer
+      File : DAC.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+

@@ -1,0 +1,13 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [CROSS.PcbDoc]
+   Generated File[CROSS.GKO]
+   Generated File[CROSS.RUL]
+   Generated File[CROSS.EXTREP]
+   Generated File[CROSS.REP]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 18:09:54 On 28.11.2020

@@ -1,0 +1,14 @@
+*************************************************************
+FileName = CROSS.GBR
+AutoAperture = True
+*************************************************************
+Generating : Keep-Out Layer
+      File : CROSS.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+
